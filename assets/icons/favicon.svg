@@ -1,2 +1,2 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="32" fill="#513e2a"/><text x="32" y="45" text-anchor="middle" font-family="Georgia,serif" font-style="italic" font-size="48" fill="#f2d8a6">s</text><circle cx="47" cy="17" r="3" fill="#d4a355"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="32" fill="#fffdf8"/><g fill="none" stroke="#9a6400" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.2"><path d="M28 28c-3-9-11-12-14-8 0 5 4 9 13 11M36 28c3-9 11-12 14-8 0 5-4 9-13 11"/><ellipse cx="32" cy="34" rx="6" ry="12"/><path d="M27 31h10M26.5 36h11M28 41h8M30 46l-3 4m7-4 3 4M27 26l-3-4m13 4 3-4"/></g><circle cx="32" cy="22" r="2.5" fill="#9a6400"/></svg>
 
