@@ -16,3 +16,5 @@ html[dir=ltr] .hero{direction:ltr}.hero-copy,.story-copy,.order-heading,.faq-int
 .brand-image-window{height:82px}
 @media(max-width:760px){.brand-image-window{width:140px;height:68px}.brand-logo{width:205px!important;height:205px!important;left:-25px;top:-56px}}
 
+
+.hero-photo-art{overflow:hidden;border-radius:4px;box-shadow:var(--shadow)}.hero-photo{display:block;width:100%;height:100%;object-fit:cover;object-position:center}.photo-story:before{display:none}.story-photo{position:absolute;inset:0;display:block;width:100%;height:100%;object-fit:cover;object-position:center 44%}

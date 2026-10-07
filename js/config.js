@@ -11,9 +11,9 @@ window.SENADEM_CONFIG = {
   CASH_ON_DELIVERY_ENABLED: false,
   SITE_URL: "https://example.com", // Replace before publishing for canonical and sitemap links.
   PRODUCTS: [
-    { id: "jar-250", name: "عسل Senadem الطبيعي", nameFr: "Miel naturel Senadem", weight: "250g", description: "قطاف طبيعي يضيف لمائدتكم لمسة من الدفء والأصالة.", descriptionFr: "Une touche naturelle et authentique pour votre table.", price: 1500, image: "", imageAlt: "مساحة لصورة عسل Senadem الطبيعي 250 غ", featured: false },
-    { id: "jar-500", name: "عسل Senadem الطبيعي", nameFr: "Miel naturel Senadem", weight: "500g", description: "حجم مناسب للمشاركة والاستمتاع بالعسل كل يوم.", descriptionFr: "Un format généreux à partager au quotidien.", price: 2500, image: "", imageAlt: "مساحة لصورة عسل Senadem الطبيعي 500 غ", featured: true },
-    { id: "jar-1kg", name: "عسل Senadem الطبيعي", nameFr: "Miel naturel Senadem", weight: "1kg", description: "برطمان عائلي يجمع النكهة الطبيعية والكرم.", descriptionFr: "Le format familial, généreux et naturel.", price: 4500, image: "", imageAlt: "مساحة لصورة عسل Senadem الطبيعي 1 كغ", featured: false }
+    { id: "jar-250", name: "عسل Senadem الطبيعي", nameFr: "Miel naturel Senadem", weight: "250g", description: "قطاف طبيعي يضيف لمائدتكم لمسة من الدفء والأصالة.", descriptionFr: "Une touche naturelle et authentique pour votre table.", price: 1500, image: "assets/images/senadem-product.jpg", imageAlt: "صورة برطمان عسل Senadem الطبيعي 250 غ", featured: false },
+    { id: "jar-500", name: "عسل Senadem الطبيعي", nameFr: "Miel naturel Senadem", weight: "500g", description: "حجم مناسب للمشاركة والاستمتاع بالعسل كل يوم.", descriptionFr: "Un format généreux à partager au quotidien.", price: 2500, image: "assets/images/senadem-product.jpg", imageAlt: "صورة برطمان عسل Senadem الطبيعي 500 غ", featured: true },
+    { id: "jar-1kg", name: "عسل Senadem الطبيعي", nameFr: "Miel naturel Senadem", weight: "1kg", description: "برطمان عائلي يجمع النكهة الطبيعية والكرم.", descriptionFr: "Le format familial, généreux et naturel.", price: 4500, image: "assets/images/senadem-product.jpg", imageAlt: "صورة برطمان عسل Senadem الطبيعي 1 كغ", featured: false }
   ],
   FAQ: [
     { q: "هل العسل طبيعي؟", a: "نحرص على تقديم عسل طبيعي بعناية. تواصلوا معنا لمعرفة تفاصيل مصدر كل منتج والدفعة المتوفرة.", qFr: "Le miel est-il naturel ?", aFr: "Nous sélectionnons notre miel avec soin. Contactez-nous pour connaître l’origine et les détails du lot disponible." },
