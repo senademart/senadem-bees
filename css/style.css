@@ -13,5 +13,6 @@ html[dir=ltr] .hero{direction:ltr}.hero-copy,.story-copy,.order-heading,.faq-int
 .brand-image-window{position:relative;display:block;flex:none;width:150px;height:78px;overflow:hidden;background:transparent;mix-blend-mode:multiply}
 .brand-logo{position:absolute!important;display:block!important;width:278px!important;height:278px!important;max-width:none!important;left:-33px;top:-72px;object-fit:fill}
 .brand-footer .brand-image-window{background:var(--ivory);mix-blend-mode:normal;border-radius:2px}
-@media(max-width:760px){.brand-image-window{width:116px;height:58px}.brand-logo{width:215px!important;height:215px!important;left:-25px;top:-56px}}
+.brand-image-window{height:82px}
+@media(max-width:760px){.brand-image-window{width:112px;height:68px}.brand-logo{width:205px!important;height:205px!important;left:-25px;top:-56px}}
 
