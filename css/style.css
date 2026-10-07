@@ -14,5 +14,5 @@ html[dir=ltr] .hero{direction:ltr}.hero-copy,.story-copy,.order-heading,.faq-int
 .brand-logo{position:absolute!important;display:block!important;width:278px!important;height:278px!important;max-width:none!important;left:-33px;top:-72px;object-fit:fill}
 .brand-footer .brand-image-window{background:var(--ivory);mix-blend-mode:normal;border-radius:2px}
 .brand-image-window{height:82px}
-@media(max-width:760px){.brand-image-window{width:124px;height:68px}.brand-logo{width:205px!important;height:205px!important;left:-25px;top:-56px}}
+@media(max-width:760px){.brand-image-window{width:140px;height:68px}.brand-logo{width:205px!important;height:205px!important;left:-25px;top:-56px}}
 
